@@ -1,8 +1,6 @@
-make-notes
-==========
-Remind what should never be forgotten!
+## The current repository is used to make notes,which should never be forgotten!
 
-How to generate SSH key for github
-==================================
-https://help.github.com/articles/generating-ssh-keys
+1. [How to generate SSH key for github]
+
+[How to generate SSH key for github]: https://help.github.com/articles/generating-ssh-keys
 
