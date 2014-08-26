@@ -2,8 +2,8 @@
 
 1. [How to generate SSH key for github][]
 
-2. [Getting started with Github][]
+2. [Git Detail Tutorial][]
 
 [How to generate SSH key for github]: https://help.github.com/articles/generating-ssh-keys
-[Getting started with Github]: https://developer.github.com/guides/getting-started/
+[Git Detail Tutorial]: http://blog.csdn.net/tangbin330/article/details/9128765
 
